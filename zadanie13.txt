@@ -1,9 +1,9 @@
-Задание №13
+Р—Р°РґР°РЅРёРµ 13
 
 
 
 
-Задание №1
+Р—Р°РґР°РЅРёРµ в„–1
 
 public class Main
 {
@@ -15,7 +15,7 @@ public class Main
       a[i][j]=(int)(Math.random()*10);
       }
      }
-for (int i=0;i < a.length;i++,System.out.println("Ответ")){
+for (int i=0;i < a.length;i++,System.out.println("РћС‚РІРµС‚")){
 for (int j=0;j < a[i].length;j++){
 System.out.print(a[i][j]+" ");
 
@@ -23,8 +23,7 @@ System.out.print(a[i][j]+" ");
 		}
 		}
 		}
-
-Задание №2
+Р—Р°РґР°РЅРёРµ в„–2
 import java.util.Arrays;
 class Main {
 public static void main(String[] args) {
